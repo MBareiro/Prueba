@@ -23,6 +23,7 @@ $show['Theater']='Alcazar';<br />
 
   $show['Theatre'] = "Alcazar";
   echo $show['Theater']. "<br>\n";
+  echo $show;
 ?>
 </b>
 </body>
